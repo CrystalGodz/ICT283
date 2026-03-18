@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1719135948 source:c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\vectortest.cpp
+	<iostream>
+	"Vector.h"
+
+1719138777 c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\vector.h
+
+1719145663 source:c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\date.cpp
+	"Date.h"
+
+1718963277 c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\date.h
+	<iostream>
+
+1719145663 source:c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\time.cpp
+	"Time.h"
+
+1719140306 c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\time.h
+	<iostream>
+	<iomanip>
+
+1719203241 source:c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<cmath>
+	<sstream>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+
+1719284612 source:c:\users\clarence\desktop\ict283\assignment1-everything\assignment1_ict283_35008001\date.cpp
+	"Date.h"
+
+1719285783 c:\users\clarence\desktop\ict283\assignment1-everything\assignment1_ict283_35008001\date.h
+	<iostream>
+	<iomanip>
+
+1719285742 source:c:\users\clarence\desktop\ict283\assignment1-everything\assignment1_ict283_35008001\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<cmath>
+	<sstream>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+
+1719284447 c:\users\clarence\desktop\ict283\assignment1-everything\assignment1_ict283_35008001\time.h
+	<iostream>
+	<iomanip>
+
+1719138777 c:\users\clarence\desktop\ict283\assignment1-everything\assignment1_ict283_35008001\vector.h
+
+1719285692 source:c:\users\clarence\desktop\ict283\assignment1-everything\assignment1_ict283_35008001\time.cpp
+	"Time.h"
+
+1719300027 source:c:\users\clarence\desktop\ict283\assignment1-everything\ict283_assignment1_clarencelim_35008001\date.cpp
+	"Date.h"
+
+1719285783 c:\users\clarence\desktop\ict283\assignment1-everything\ict283_assignment1_clarencelim_35008001\date.h
+	<iostream>
+	<iomanip>
+
+1719287658 source:c:\users\clarence\desktop\ict283\assignment1-everything\ict283_assignment1_clarencelim_35008001\time.cpp
+	"Time.h"
+
+1719287582 c:\users\clarence\desktop\ict283\assignment1-everything\ict283_assignment1_clarencelim_35008001\time.h
+	<iostream>
+	<iomanip>
+
+1719314898 source:c:\users\clarence\desktop\ict283\assignment1-everything\ict283_assignment1_clarencelim_35008001\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<cmath>
+	<sstream>
+	<iomanip>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+
+1719390187 c:\users\clarence\desktop\ict283\assignment1-everything\ict283_assignment1_clarencelim_35008001\vector.h
+
