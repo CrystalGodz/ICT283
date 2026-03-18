@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+830090216 source:c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\course.cpp
+	"course.h"
+
+1235478704 c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\course.h
+	<iostream>
+	<string.h>
+
+1235478734 source:c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\main.cpp
+	<iostream>
+	<fstream>
+	"course.h"
+	"regist.h"
+
+1235478688 c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\regist.h
+	<iostream>
+	"course.h"
+
+1235476234 source:c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\regist.cpp
+	"regist.h"
+
+830090216 source:\\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\course.cpp
+	"course.h"
+
+1235478704 \\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\course.h
+	<iostream>
+	<string.h>
+
+1235478734 source:\\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\main.cpp
+	<iostream>
+	<fstream>
+	"course.h"
+	"regist.h"
+
+1235478688 \\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\regist.h
+	<iostream>
+	"course.h"
+
+1235476234 source:\\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\regist.cpp
+	"regist.h"
+
+1457336386 source:\\sphinx\s900391h\smr\smr\ict209-ict283\2017\tj - 6x4\placed in lms\session01\01 - pre-workshop\topic02\practical\registration\codeblocks\course.cpp
+	"course.h"
+
+1457336962 \\sphinx\s900391h\smr\smr\ict209-ict283\2017\tj - 6x4\placed in lms\session01\01 - pre-workshop\topic02\practical\registration\codeblocks\course.h
+	<iostream>
+	<string.h>
+
+1457337038 source:\\sphinx\s900391h\smr\smr\ict209-ict283\2017\tj - 6x4\placed in lms\session01\01 - pre-workshop\topic02\practical\registration\codeblocks\main.cpp
+	<iostream>
+	<fstream>
+	"course.h"
+	"regist.h"
+
+1488617813 \\sphinx\s900391h\smr\smr\ict209-ict283\2017\tj - 6x4\placed in lms\session01\01 - pre-workshop\topic02\practical\registration\codeblocks\regist.h
+	<iostream>
+	"course.h"
+
+1457336550 source:\\sphinx\s900391h\smr\smr\ict209-ict283\2017\tj - 6x4\placed in lms\session01\01 - pre-workshop\topic02\practical\registration\codeblocks\regist.cpp
+	"regist.h"
+
+1707906646 source:d:\dell\data\od\tmp\data01\onedrive\units\ict283\topicslms\topic02\practical\registration-code\regist.cpp
+	"regist.h"
+
+1707907262 d:\dell\data\od\tmp\data01\onedrive\units\ict283\topicslms\topic02\practical\registration-code\regist.h
+	"course.h"
+	<iostream>
+
+1707908626 d:\dell\data\od\tmp\data01\onedrive\units\ict283\topicslms\topic02\practical\registration-code\course.h
+	<iostream>
+
+1707907262 source:d:\dell\data\od\tmp\data01\onedrive\units\ict283\topicslms\topic02\practical\registration-code\course.cpp
+	"course.h"
+	<string.h>
+
+1707906271 source:d:\dell\data\od\tmp\data01\onedrive\units\ict283\topicslms\topic02\practical\registration-code\main.cpp
+	"course.h"
+	"regist.h"
+	<iostream>
+	<fstream>
+
+1716637753 source:c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\unittest.cpp
+	<iostream>
+	"Unit.h"
+
+1716693397 c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\unit.h
+	<iostream>
+	<cstring>
+
+1716639784 source:c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\unit.cpp
+	"Unit.h"
+
+1716639723 source:c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\resulttest.cpp
+	<iostream>
+	"Result.h"
+	"Unit.h"
+
+1716693741 c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\result.h
+	<iostream>
+	"Unit.h"
+
+1716641969 source:c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\result.cpp
+	"Result.h"
+
+1716642855 source:c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\main.cpp
+	<iostream>
+	<fstream>
+	"Unit.H"
+	"Registration.h"
+
+1716643441 c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\registration.h
+	<iostream>
+	"Result.h"
+
+1716693029 source:c:\users\clarence\desktop\ict283\topic3-everything\practical\registration-code from lab2\registration.cpp
+	"Registration.h"
+
+1717846416 source:c:\users\clarence\desktop\ict283\topic4-everything\practical\registration-code from lab2\main.cpp
+	<iostream>
+	<fstream>
+	"Unit.H"
+	"Registration.h"
+
+1717849195 c:\users\clarence\desktop\ict283\topic4-everything\practical\registration-code from lab2\unit.h
+	<iostream>
+	<cstring>
+
+1717846781 c:\users\clarence\desktop\ict283\topic4-everything\practical\registration-code from lab2\registration.h
+	<iostream>
+	"Result.h"
+
+1717848788 c:\users\clarence\desktop\ict283\topic4-everything\practical\registration-code from lab2\result.h
+	<iostream>
+	"Unit.h"
+
+1717848239 source:c:\users\clarence\desktop\ict283\topic4-everything\practical\registration-code from lab2\registration.cpp
+	"Registration.h"
+
+1717849057 source:c:\users\clarence\desktop\ict283\topic4-everything\practical\registration-code from lab2\result.cpp
+	"Result.h"
+
+1718692317 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\main.cpp
+	<iostream>
+	<fstream>
+	"Unit.H"
+	"Registration.h"
+	"Date.h"
+
+1718866368 c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\unit.h
+	<iostream>
+	<cstring>
+
+1718963226 c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\registration.h
+	<iostream>
+	"Result.h"
+
+1718866387 c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\result.h
+	<iostream>
+	"Unit.h"
+	"Date.h"
+
+1718965559 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\unit.cpp
+	"Unit.h"
+
+1718964961 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\result.cpp
+	"Result.h"
+
+1718872062 c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\date.h
+	<iostream>
+	<cstring>
+
+1719202618 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\date.cpp
+	"Date.h"
+
+1719202387 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4submission\registration.cpp
+	"Registration.h"
+
+1719202618 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\date.cpp
+	"Date.h"
+
+1718872062 c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\date.h
+	<iostream>
+	<cstring>
+
+1718692317 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\main.cpp
+	<iostream>
+	<fstream>
+	"Unit.H"
+	"Registration.h"
+	"Date.h"
+
+1718866368 c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\unit.h
+	<iostream>
+	<cstring>
+
+1718963226 c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\registration.h
+	<iostream>
+	"Result.h"
+
+1718866387 c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\result.h
+	<iostream>
+	"Unit.h"
+	"Date.h"
+
+1719202387 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\registration.cpp
+	"Registration.h"
+
+1718964961 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\result.cpp
+	"Result.h"
+
+1718965559 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4\unit.cpp
+	"Unit.h"
+

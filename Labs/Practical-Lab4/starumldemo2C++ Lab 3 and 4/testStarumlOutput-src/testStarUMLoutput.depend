@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1361535997 source:c:\users\rai\desktop\new folder\ict209\starumldemo2c++\new folder\b.cpp
+	"B.h"
+
+1361535997 c:\users\rai\desktop\new folder\ict209\starumldemo2c++\new folder\b.h
+	"A.h"
+
+1361535997 c:\users\rai\desktop\new folder\ict209\starumldemo2c++\new folder\a.h
+
+1361535997 source:c:\users\rai\desktop\new folder\ict209\starumldemo2c++\new folder\a.cpp
+	"A.h"
+
+1361535997 source:c:\users\rai\desktop\new folder\ict209\starumldemo2c++\b.cpp
+	"B.h"
+
+1361535997 c:\users\rai\desktop\new folder\ict209\starumldemo2c++\b.h
+	"A.h"
+
+1361535997 c:\users\rai\desktop\new folder\ict209\starumldemo2c++\a.h
+
+1361535997 source:c:\users\rai\desktop\new folder\ict209\starumldemo2c++\a.cpp
+	"A.h"
+
+1361535998 source:c:\users\rai\desktop\junk-tmp\staruml demo\b.cpp
+	"B.h"
+
+1361535998 c:\users\rai\desktop\junk-tmp\staruml demo\b.h
+	"A.h"
+
+1361535998 c:\users\rai\desktop\junk-tmp\staruml demo\a.h
+
+1456404094 source:c:\users\smr\desktop\new folder (2)\new folder (3)\a.cpp
+	"A.h"
+
+1456404094 c:\users\smr\desktop\new folder (2)\new folder (3)\a.h
+
+1456404094 source:c:\users\smr\desktop\new folder (2)\new folder (3)\b.cpp
+	"B.h"
+
+1456404094 c:\users\smr\desktop\new folder (2)\new folder (3)\b.h
+	"A.h"
+
+1647520822 source:c:\users\sr\desktop\bin\starumldemo2c++\teststarumloutput-src\teststarumloutput.cpp
+	"../A.h"
+	"../B.h"
+
+1647520441 c:\users\sr\desktop\bin\starumldemo2c++\a.h
+
+1647521198 c:\users\sr\desktop\bin\starumldemo2c++\b.h
+	"A.h"
+	<iostream>
+
+1647520441 source:c:\users\sr\desktop\bin\starumldemo2c++\a.cpp
+	"A.h"
+

@@ -1,0 +1,5 @@
+324567,64,4
+Foundations_of_Programming,ICT159,3,24/01/2021/79
+Software_Architectures,ICT373,1,12/05/2022/88
+Principles_of_Computer_Science,ICT167,4,20/09/2023/59
+Data_Structures,ICT283,3,19/01/2024/72

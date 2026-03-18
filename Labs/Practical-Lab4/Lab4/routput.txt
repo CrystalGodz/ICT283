@@ -1,0 +1,28 @@
+Student ID: 324567
+Semester:   64
+  Unit   : 
+  ID     : 
+  Credit : 0
+  Marks  : 0
+  Date   : 0 0 0
+
+  Unit   : Foundations_of_Programming
+  ID     : ICT159
+  Credit : 3
+  Marks  : 79
+  Date   : 24 1 2021
+
+  Unit   : Software_Architectures
+  ID     : ICT373
+  Credit : 1
+  Marks  : 88
+  Date   : 12 5 2022
+
+  Unit   : Principles_of_Computer_Science
+  ID     : ICT167
+  Credit : 4
+  Marks  : 59
+  Date   : 20 9 2023
+
+Number of Units   = 4
+Total credits     = 8

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718876071 source:c:\users\clarence\desktop\ict283\topic4-everything\practical-assessed\lab4q7\dataarray\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
