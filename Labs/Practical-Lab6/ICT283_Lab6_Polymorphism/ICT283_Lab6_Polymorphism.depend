@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1717992611 source:c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lab6_polymorphism\shapemain.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+	"Square.h"
+	"Rectangle.h"
+
+1717992827 c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lab6_polymorphism\shape.h
+
+1717992987 c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lab6_polymorphism\square.h
+	"Shape.h"
+
+1717992993 c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lab6_polymorphism\rectangle.h
+	"Shape.h"
+
