@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1716784123 source:c:\users\clarence\onedrive\documents\codeblocksprojects\lab3\ict283_lab4pt2\lighttest.cpp
+	<iostream>
+	"Light.h"
+
+1716784233 c:\users\clarence\onedrive\documents\codeblocksprojects\lab3\ict283_lab4pt2\light.h
+	<iostream>
+	<string>
+
+1717384203 source:c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lab4pt2\light.cpp
+	"Light.h"
+
+1717384336 c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lab4pt2\light.h
+	<iostream>
+	<string>
+
