@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1715570171 source:c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lessonlabs\pointermain.cpp
+	<iostream>
+
+1715569260 source:c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lessonlabs\ict283_lesson2.cpp
+	<iostream>
+
+1715573975 source:c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lessonlabs\parametermain.cpp
+	<iostream>
+
+1716174751 source:c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lessonlabs\ict283_lesson3.cpp
+	<iostream>
+
+1716177695 source:c:\users\clarence\onedrive\documents\codeblocksprojects\ict283_lessonlabs\cstringexamples.cpp
+	<iostream>
+	<cstring>
+
