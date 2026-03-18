@@ -1,0 +1,5 @@
+Sample code to show how to use templates for nesting classes.
+
+Also demo of access of data from nested classes.
+
+Does operator<< belong to the class A or a friend of the class A? Examine the code. Use a debugger to step through line by line. Don't just run the program, as what is going on might not be obvious

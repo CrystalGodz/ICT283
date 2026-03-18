@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1719135948 source:c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\vectortest.cpp
+	<iostream>
+	"Vector.h"
+
+1719138777 c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\vector.h
+
+1719145663 source:c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\date.cpp
+	"Date.h"
+
+1718963277 c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\date.h
+	<iostream>
+
+1719145663 source:c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\time.cpp
+	"Time.h"
+
+1719140306 c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\time.h
+	<iostream>
+	<iomanip>
+
+1719203241 source:c:\users\clarence\desktop\ict283\topic5-everything\practical\lab5submission\lab5\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<cmath>
+	<sstream>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+
