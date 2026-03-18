@@ -1,0 +1,20 @@
+Student ID : 102234
+Semester   : 962
+  Unit    : CHM_1020
+  ID      : C
+  Credits : 3
+  Marks  : 99
+  Unit    : MUS_1100
+  ID      : H
+  Credits : 1
+  Marks  : 92
+  Unit    : BIO_1040
+  ID      : D
+  Credits : 4
+  Marks  : 58
+  Unit    : MTH_2400
+  ID      : A
+  Credits : 3
+  Marks  : 89
+Number of Units = 4
+Total credits   = 11
