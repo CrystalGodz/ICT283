@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1719300027 source:c:\users\clarence\desktop\ict283\topic9-everything\practical\lab9\date.cpp
+	"Date.h"
+
+1719285783 c:\users\clarence\desktop\ict283\topic9-everything\practical\lab9\date.h
+	<iostream>
+	<iomanip>
+
+1721216670 source:c:\users\clarence\desktop\ict283\topic9-everything\practical\lab9\bsttest.cpp
+	<iostream>
+	<fstream>
+	"intBst.h"
+
+1721217353 c:\users\clarence\desktop\ict283\topic9-everything\practical\lab9\intbst.h
+	<iostream>
+
